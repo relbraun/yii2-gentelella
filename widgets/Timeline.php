@@ -5,7 +5,7 @@
  * @link http://gentelella.yiister.ru
  */
 
-namespace relbraun\gentelella\widgets;
+namespace yiister\gentelella\widgets;
 
 use yii\base\Widget;
 use yii\helpers\Html;

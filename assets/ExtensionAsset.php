@@ -5,13 +5,13 @@
  * @link http://gentelella.yiister.ru
  */
 
-namespace relbraun\gentelella\assets;
+namespace yiister\gentelella\assets;
 
 use yii\web\AssetBundle;
 
 class ExtensionAsset extends AssetBundle
 {
-    public $sourcePath = '@relbraun/gentelella/assets/src';
+    public $sourcePath = '@yiister/gentelella/assets/src';
     public $js = [
         'js/extension.js',
     ];
