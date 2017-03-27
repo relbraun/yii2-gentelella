@@ -5,7 +5,7 @@
  * @link http://gentelella.yiister.ru
  */
 
-namespace yiister\gentelella\widgets\grid;
+namespace relbraun\gentelella\widgets\grid;
 
 use yii\helpers\Html;
 
