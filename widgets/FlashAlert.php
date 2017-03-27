@@ -5,7 +5,7 @@
  * @link http://gentelella.yiister.ru
  */
 
-namespace yiister\gentelella\widgets;
+namespace relbraun\gentelella\widgets;
 
 use rmrevin\yii\fontawesome\component\Icon;
 use Yii;
