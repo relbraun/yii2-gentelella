@@ -7,7 +7,7 @@
 
 use yii\helpers\Html;
 
-$bundle = relbraun\gentelella\assets\Asset::register($this);
+$bundle = yiister\gentelella\assets\Asset::register($this);
 
 ?>
 <?php $this->beginPage(); ?>
@@ -61,7 +61,7 @@ $bundle = relbraun\gentelella\assets\Asset::register($this);
                     <div class="menu_section">
                         <h3>General</h3>
                         <?=
-                        \relbraun\gentelella\widgets\Menu::widget(
+                        \yiister\gentelella\widgets\Menu::widget(
                             [
                                 "items" => [
                                     ["label" => "Home", "url" => "/", "icon" => "home"],
