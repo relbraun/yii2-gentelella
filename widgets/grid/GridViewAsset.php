@@ -15,6 +15,6 @@ class GridViewAsset extends \yii\web\AssetBundle
     ];
     public $js = [];
     public $depends = [
-        'relbraun\gentelella\assets\Asset',
+        'yiister\gentelella\assets\Asset',
     ];
 }
